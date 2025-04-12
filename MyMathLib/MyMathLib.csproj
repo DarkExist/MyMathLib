@@ -11,7 +11,7 @@
 	<Description>An awesome library that does math things</Description>
 	<PackageTags>awesome math tools</PackageTags>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
-	<RepositoryUrl>https://github.com/yourname/MyAwesomeLibrary</RepositoryUrl>
+	<RepositoryUrl>https://github.com/DarkExist/MyMathLib</RepositoryUrl>
 	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 	<GenerateDocumentationFile>true</GenerateDocumentationFile>
 	<DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(PackageId).xml</DocumentationFile>
