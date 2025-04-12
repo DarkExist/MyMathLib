@@ -4,8 +4,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	<PackageId>MyMathLib</PackageId>
-	<Version>1.0.0</Version>
+	<PackageId>MyMathLib_unique1337</PackageId>
+	<Version>1.1.0</Version>
 	<Authors>MyName</Authors>
 	<Company>MyCompany</Company>
 	<Description>An awesome library that does math things</Description>
